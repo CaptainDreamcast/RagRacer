@@ -1,0 +1,115 @@
+[Header]
+Sprites = levels/INTRO.sff
+
+[STORYSTART]
+
+[Image 1]
+Group = 1
+Item = 0
+
+
+[Text 1]
+Speaker = ""
+Text = "Before we begin, I must ask you a favor:"
+
+[Text 1]
+Speaker = ""
+Text = "Please put a coin into your machine."
+
+[Image 1]
+Group = 1
+Item = 1
+
+[Text 1]
+Speaker = ""
+Text = "I know I'm not a real arcade game, but I really want to feel the part, you know?"
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = ""
+Text = "..."
+
+
+[Text 1]
+Speaker = ""
+Text = "Usually we'd have a little back-and-forth here but you see, there was no longer any time for that."
+
+[Image 1]
+Group = 1
+Item = 1
+
+[Text 1]
+Speaker = ""
+Text = "So please just put the coin on your PC or something."
+
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = ""
+Text = "..."
+
+
+
+[Text 1]
+Speaker = ""
+Text = "C'mon, please!"
+
+[Text 1]
+Speaker = ""
+Text = "OK, YOU WANT TO PLAY IT THIS WAY?"
+
+[Image 1]
+Group = 1
+Item = 2
+
+[Text 1]
+Speaker = ""
+Text = "PUT THE ******* COIN ON YOUR COMPUTER!"
+
+[Text 1]
+Speaker = ""
+Text = "YOU EVER BEEN FORCED AT GUNPOINT BY A LUDUM DARE GAME TO PUT A COIN ON YOUR COMPUTER BEFORE? THIS IS SERIOUS BUSINESS!"
+
+[Text 1]
+Speaker = ""
+Text = "I DON'T CARE THAT YOU HAVE TO GO GET YOUR WALLET! NO, A BILL IS NOT OK! IF IT'S AN ARCADE IT HAS TO BE A COIN!"
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = ""
+Text = "..."
+
+[Image 1]
+Group = 1
+Item = 3
+
+[Text 1]
+Speaker = ""
+Text = "There we go, thank you very much!"
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = ""
+Text = "... Oh right, the game thing: Bump dudes off the track, steal their parts, surv- err, win the race. Simple as that!"
+
+[Image 1]
+Group = 1
+Item = 3
+
+[Text 1]
+Speaker = ""
+Text = "Have fun if possible! And thanks again for the coin!"
+
+[Game]

@@ -1,0 +1,126 @@
+[Header]
+Sprites = levels/INTRO.sff
+
+[STORYSTART]
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = ""
+Text = "After defeating the eight nameless men with his iron wits and some good old-fashioned sabotage, Mike makes his way to the podium when...!"
+
+
+[Image 1]
+Group = 1
+Item = 1
+
+[Text 1]
+Speaker = ""
+Text = "HIS SPINE! GIVES! OUT!"
+
+[Image 1]
+Group = 1
+Item = 2
+
+[Text 1]
+Speaker = ""
+Text = "Breaking his spine 67 times during the race, Mike is apparently on death's doorstep now!"
+
+[Image 1]
+Group = 1
+Item = 3
+
+[Text 1]
+Speaker = "Bunny Girl"
+Text = "What a dramatic twist!"
+
+[Image 1]
+Group = 1
+Item = 4
+
+[Text 1]
+Speaker = ""
+Text = "Luckily, the world's greatest spine doctor was present at the race!"
+
+[Image 1]
+Group = 1
+Item = 3
+
+[Text 1]
+Speaker = "Bunny Girl"
+Text = "What a dramatic twist!"
+
+[Image 1]
+Group = 1
+Item = 5
+
+[Text 1]
+Speaker = ""
+Text = "... It's no use! I am a professional, so I can't save him for free!"
+
+[Text 1]
+Speaker = ""
+Text = "If only there was something monetary around! Like a... like a...!"
+
+[Image 1]
+Group = 1
+Item = 6
+
+[Text 1]
+Speaker = ""
+Text = "[Pause for you to yell "Like THIS coin?!" and hold up your coin]"
+
+[Image 1]
+Group = 1
+Item = 7
+
+[Text 1]
+Speaker = ""
+Text = "Indeed, it was your coin that ended up saving Mike's life."
+
+[Image 1]
+Group = 1
+Item = 3
+
+[Text 1]
+Speaker = ""
+Text = "DON'T SAY IT A THIRD TIME!"
+
+
+[Text 1]
+Speaker = "Bunny Girl"
+Text = "What a dramatic twist!"
+
+[Text 1]
+Speaker = ""
+Text = "AARGH!"
+
+[Image 1]
+Group = 1
+Item = 8
+
+
+[Text 1]
+Speaker = ""
+Text = "With his spine restored, he gladly accepted the trophy, as well as the grand prize: A lifetime supply of white briefs."
+
+
+[Text 1]
+Speaker = ""
+Text = "As for you, your generosity was rewarded with a lovingly crafted Thanks for Playing screen and probably better karma or something!"
+
+[Text 1]
+Speaker = ""
+Text = "And of course we all learned to never judge a book by its cover, or a racer by their briefs!"
+
+[Text 1]
+Speaker = ""
+Text = "THANKS FOR PLAYING!"
+
+[Text 1]
+Speaker = ""
+Text = "THE END!"
+
+[Title]

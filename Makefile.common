@@ -1,0 +1,4 @@
+OBJS = main.o \
+beginningenemyhandler.o enemyhandler.o finishhandler.o gamelogic.o gameoverscreen.o \
+gamescreen.o hazardhandler.o playerhandler.o roadhandler.o storyscreen.o titlescreen.o \
+uihandler.o
